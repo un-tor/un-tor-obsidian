@@ -1,0 +1,71 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "TrEye",
+      "RaBeer",
+      "RaPlayer"
+    ],
+    "recentlyUsedIconsSize": 10,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": true,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "_Assets/Templates/PC-Template.md": {
+    "iconName": "RaPlayer"
+  },
+  "_Assets/Templates/NPC-Template.md": {
+    "iconName": "RaPlayer",
+    "iconColor": "grey"
+  },
+  "Hamar and Leylin/NPCs/Elenion.md": {
+    "iconName": "RaPlayer",
+    "iconColor": "green"
+  },
+  "Hamar and Leylin/NPCs/The Spider.md": {
+    "iconName": "TrEye",
+    "iconColor": "grey"
+  },
+  "Hamar and Leylin/NPCs/Rory Tunnelly.md": {
+    "iconName": "RaPlayer",
+    "iconColor": "green"
+  },
+  "Hamar and Leylin/NPCs/Marigold Heathertoes.md": {
+    "iconName": "RaPlayer",
+    "iconColor": "green"
+  },
+  "Hamar and Leylin/NPCs/The Enforcer.md": {
+    "iconName": "TrEye",
+    "iconColor": "grey"
+  },
+  "Hamar and Leylin/PCs/Hamar.md": {
+    "iconName": "RaPlayer"
+  },
+  "Hamar and Leylin/PCs/Leylin.md": {
+    "iconName": "RaPlayer"
+  },
+  "Hamar and Leylin/An Unlikely Duo.md": {
+    "iconName": "RaBeer"
+  }
+}

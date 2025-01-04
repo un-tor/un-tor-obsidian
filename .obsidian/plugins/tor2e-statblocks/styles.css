@@ -1,0 +1,127 @@
+.statblock-tor2e {
+    max-width: 100%;
+}
+
+.statblock-tor2e .fl-r {
+    float: right;
+}
+
+.statblock-tor2e .maxw {
+    max-width: 380px;
+}
+
+.statblock-tor2e .clear {
+    clear: both;
+}
+
+.statblock-tor2e div {
+    margin-bottom: 20px;
+}
+
+.statblock-tor2e section {
+    margin: 20px 0;
+
+}
+
+.statblock-tor2e section p {
+    margin: 0;
+}
+
+.statblock-tor2e .nomargin {
+    margin-bottom: 0;
+    margin-top: 0;
+}
+
+.statblock-tor2e h1,
+.statblock-tor2e h2,
+.statblock-tor2e h3,
+.statblock-tor2e h4,
+.statblock-tor2e h5,
+.statblock-tor2e h6
+{
+    font-weight: 200;
+}
+
+/* Easy styling for spans */
+.statblock-tor2e .bold {
+    font-weight: 500;
+}
+.statblock-tor2e .em {
+    font-style: italic;
+}
+.statblock-tor2e .sc {
+    font-variant: all-petite-caps;
+}
+.statblock-tor2e .caps {
+    text-transform: uppercase;
+}
+
+.statblock-tor2e .attack div {
+    margin: 0 1em;
+}
+
+/* Numbers layout */
+.statblock-tor2e .numbers {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.statblock-tor2e .numbers div {
+    margin: 0 1em;
+    flex-grow: 1;
+}
+
+.statblock-tor2e .accent {
+    color: var(--text-accent);
+}
+
+.statblock-tor2e .attr-diamond-container {
+    display: inline-block;
+    margin: auto;
+    width: 76px;
+}
+
+.statblock-tor2e .lg .attr-diamond-container {
+    display: block;
+    width: 96px;
+}
+
+.statblock-tor2e .attr-diamond {
+    margin: auto;
+    border: solid 1px var(--text-accent);
+    text-align: center;
+    transform:rotate(45deg);
+    width: 2em;
+    height: 2em;
+}
+
+.statblock-tor2e .lg .attr-diamond {
+    font-size: 1.5em;
+}
+
+.statblock-tor2e .attr-diamond-label {
+    text-align: center;
+    line-height: 1em;
+    margin: 0 0 16px;
+    font-size: 0.75em;
+}
+
+.statblock-tor2e .lg .attr-diamond-label {
+    margin-bottom: 1.3em;
+}
+
+.statblock-tor2e .attr-diamond-text {
+    color: var(--currentcolor);
+    display: table-cell;
+    width: 2em;
+    height: 2em;
+    font-weight: bold;
+    transform: rotate(-45deg);
+    vertical-align: middle;
+}
+
+.statblock-tor2e .attr-diamond-text.lifted {
+    vertical-align: baseline;
+    line-height: 1.9em;
+}

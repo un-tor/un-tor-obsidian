@@ -1,0 +1,563 @@
+{
+  "workspaces": {
+    "Combat": {
+      "main": {
+        "id": "3858ee216c14cad1",
+        "type": "split",
+        "children": [
+          {
+            "id": "3719f0f729197038",
+            "type": "split",
+            "children": [
+              {
+                "id": "7183627ebb39fa17",
+                "type": "split",
+                "dimension": 73.19018404907976,
+                "children": [
+                  {
+                    "id": "22a081bb306e142e",
+                    "type": "tabs",
+                    "dimension": 80.23715415019763,
+                    "children": [
+                      {
+                        "id": "72c18784796afba6",
+                        "type": "leaf",
+                        "state": {
+                          "type": "empty",
+                          "state": {},
+                          "icon": "lucide-file",
+                          "title": "New tab"
+                        }
+                      },
+                      {
+                        "id": "9a76eba055a2474a",
+                        "type": "leaf",
+                        "state": {
+                          "type": "pdf",
+                          "state": {
+                            "file": "_Assets/PDFs/custom/Rafamirs_TOR_LM_Charts_v1_6.pdf",
+                            "page": 6,
+                            "left": -67,
+                            "top": 616,
+                            "zoom": 0.8112745098039216
+                          },
+                          "icon": "lucide-file-text",
+                          "title": "Rafamirs_TOR_LM_Charts_v1_6"
+                        }
+                      },
+                      {
+                        "id": "7b0370ea45b4cd58",
+                        "type": "leaf",
+                        "state": {
+                          "type": "pdf",
+                          "state": {
+                            "file": "_Assets/PDFs/official/The_One_Ring_Core_Rules.pdf",
+                            "page": 103,
+                            "left": -196,
+                            "top": 794,
+                            "zoom": 0.642017737518113
+                          },
+                          "icon": "lucide-file-text",
+                          "title": "The_One_Ring_Core_Rules"
+                        }
+                      },
+                      {
+                        "id": "c9e0a4b8f5210b20",
+                        "type": "leaf",
+                        "state": {
+                          "type": "markdown",
+                          "state": {
+                            "file": "_Assets/Reference/Rules.md",
+                            "mode": "source",
+                            "source": false
+                          },
+                          "icon": "lucide-file",
+                          "title": "Rules"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "id": "74500103a36b26c8",
+                    "type": "tabs",
+                    "dimension": 19.76284584980237,
+                    "children": [
+                      {
+                        "id": "3e30b1dfd8438766",
+                        "type": "leaf",
+                        "state": {
+                          "type": "empty",
+                          "state": {},
+                          "icon": "lucide-file",
+                          "title": "New tab"
+                        }
+                      }
+                    ]
+                  }
+                ],
+                "direction": "horizontal"
+              },
+              {
+                "id": "34f5ea6bc356bc6b",
+                "type": "tabs",
+                "dimension": 26.809815950920246,
+                "children": [
+                  {
+                    "id": "36c11a6fb5307ccb",
+                    "type": "leaf",
+                    "state": {
+                      "type": "empty",
+                      "state": {},
+                      "icon": "lucide-file",
+                      "title": "New tab"
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "vertical"
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "14a208e85200bae9",
+        "type": "split",
+        "children": [
+          {
+            "id": "0cc1f6bd302eb7f0",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "2b373b30e4c75b73",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Files"
+                }
+              },
+              {
+                "id": "07bc4ac40bccb3c8",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Search"
+                }
+              },
+              {
+                "id": "fe9c726859827596",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "Bookmarks"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200
+      },
+      "right": {
+        "id": "691170cc856af91e",
+        "type": "split",
+        "children": [
+          {
+            "id": "c84b11be4795ddc7",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e1df4ca25eb4bcd3",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks"
+                }
+              },
+              {
+                "id": "c0109564884baa49",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "Outgoing links"
+                }
+              },
+              {
+                "id": "b887ff09d3e17986",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
+              },
+              {
+                "id": "2b55bde77fae589f",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Excalidraw/Combat.excalidraw.md"
+                  },
+                  "icon": "lucide-list",
+                  "title": "Outline of Combat.excalidraw"
+                }
+              },
+              {
+                "id": "5cea7fca059fb8b3",
+                "type": "leaf",
+                "state": {
+                  "type": "DICE_ROLLER_VIEW",
+                  "state": {},
+                  "icon": "dices",
+                  "title": "Dice Tray"
+                }
+              },
+              {
+                "id": "396bc32533945c7b",
+                "type": "leaf",
+                "state": {
+                  "type": "MAIN_VIEW",
+                  "state": {},
+                  "icon": "srt-ribbon",
+                  "title": "Solo RPG Toolkit"
+                }
+              }
+            ],
+            "currentTab": 3
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "solo-rpg-toolkit:Solo RPG Toolkit": false,
+          "obsidian-textgenerator-plugin:Generate Text!": false,
+          "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+          "workspaces:Manage workspace layouts": false,
+          "pdf-plus:PDF++: Toggle auto-copy": false,
+          "pdf-plus:PDF++: Toggle auto-focus": false,
+          "pdf-plus:PDF++: Toggle auto-paste": false,
+          "obsidian-excalidraw-plugin:Create new drawing": false
+        }
+      },
+      "active": "72c18784796afba6",
+      "mtime": "2025-01-01T21:42:02-05:00"
+    },
+    "Adventure": {
+      "main": {
+        "id": "3858ee216c14cad1",
+        "type": "split",
+        "children": [
+          {
+            "id": "3719f0f729197038",
+            "type": "split",
+            "children": [
+              {
+                "id": "22a081bb306e142e",
+                "type": "tabs",
+                "dimension": 52.1613832853026,
+                "children": [
+                  {
+                    "id": "3e30b1dfd8438766",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Phases/AP 1.3 - Into the Hills.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "AP 1.3 - Into the Hills"
+                    }
+                  },
+                  {
+                    "id": "649d4a2aa2c13aa5",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "An Unlikely Duo.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "An Unlikely Duo"
+                    }
+                  },
+                  {
+                    "id": "2e30b74bad419431",
+                    "type": "leaf",
+                    "state": {
+                      "type": "pdf",
+                      "state": {
+                        "file": "_Assets/PDFs/official/The_One_Ring_Core_Rules.pdf",
+                        "page": 136,
+                        "left": -21,
+                        "top": 218,
+                        "zoom": 0.8113268756113478
+                      },
+                      "icon": "lucide-file-text",
+                      "title": "The_One_Ring_Core_Rules"
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "543769a7d931ce8f",
+                "type": "tabs",
+                "dimension": 23.847262247838614,
+                "children": [
+                  {
+                    "id": "36c11a6fb5307ccb",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "PCs/Leylin.md",
+                        "mode": "preview",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "Leylin"
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "34f5ea6bc356bc6b",
+                "type": "tabs",
+                "dimension": 23.991354466858787,
+                "children": [
+                  {
+                    "id": "9de31cca0417e66d",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "PCs/Hamar.md",
+                        "mode": "preview",
+                        "source": true
+                      },
+                      "icon": "lucide-file",
+                      "title": "Hamar"
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "vertical"
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "14a208e85200bae9",
+        "type": "split",
+        "children": [
+          {
+            "id": "0cc1f6bd302eb7f0",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "2b373b30e4c75b73",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Files"
+                }
+              },
+              {
+                "id": "07bc4ac40bccb3c8",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Search"
+                }
+              },
+              {
+                "id": "fe9c726859827596",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "Bookmarks"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200
+      },
+      "right": {
+        "id": "691170cc856af91e",
+        "type": "split",
+        "children": [
+          {
+            "id": "c84b11be4795ddc7",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e1df4ca25eb4bcd3",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks"
+                }
+              },
+              {
+                "id": "c0109564884baa49",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "Outgoing links"
+                }
+              },
+              {
+                "id": "b887ff09d3e17986",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
+              },
+              {
+                "id": "2b55bde77fae589f",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "_Assets/Reference/Rules.md"
+                  },
+                  "icon": "lucide-list",
+                  "title": "Outline of An Unlikely Duo"
+                }
+              },
+              {
+                "id": "5cea7fca059fb8b3",
+                "type": "leaf",
+                "state": {
+                  "type": "DICE_ROLLER_VIEW",
+                  "state": {},
+                  "icon": "dices",
+                  "title": "Dice Tray"
+                }
+              },
+              {
+                "id": "396bc32533945c7b",
+                "type": "leaf",
+                "state": {
+                  "type": "MAIN_VIEW",
+                  "state": {},
+                  "icon": "srt-ribbon",
+                  "title": "Solo RPG Toolkit"
+                }
+              }
+            ],
+            "currentTab": 4
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "solo-rpg-toolkit:Solo RPG Toolkit": false,
+          "obsidian-textgenerator-plugin:Generate Text!": false,
+          "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+          "workspaces:Manage workspace layouts": false,
+          "pdf-plus:PDF++: Toggle auto-copy": false,
+          "pdf-plus:PDF++: Toggle auto-focus": false,
+          "pdf-plus:PDF++: Toggle auto-paste": false,
+          "obsidian-excalidraw-plugin:Create new drawing": false
+        }
+      },
+      "active": "3e30b1dfd8438766",
+      "mtime": "2024-12-15T21:15:52-05:00"
+    }
+  },
+  "active": "Adventure"
+}

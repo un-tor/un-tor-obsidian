@@ -1,0 +1,21 @@
+Weapon,Damage,Injury,Load,CombatProficiency,Notes
+Unarmed,1,—,0,Brawling*,Includes throwing stones. Cannot cause a Piercing Blow
+Dagger,2,14,0,Brawling*,Can trigger Pierce as if it was a Sword (see page 99)
+Cudgel,3,12,0,Brawling*,—
+Club,4,14,1,Brawling*,—
+Short Sword,3,16,1,Swords,—
+Sword,4,16,2,Swords,—
+Long Sword,5,16 (1h)/18 (2h),3,Swords,Can be used 1 or 2-handed
+Short Spear,3,14,2,Spears,Can be thrown
+Spear,4,14 (1h)/16 (2h),3,Spears,Can be 1 or 2-handed. Can be thrown
+Great Spear,5,16,4,Spears,2-handed
+Axe,5,18,2,Axes,—
+Long-hafted Axe,6,18 (1h)/20 (2h),3,Axes,Can be used 1 or 2-handed
+Great Axe,7,20,4,Axes,2-handed
+Mattock,7,18,3,Axes,2-handed
+Bow,3,14,2,Bows,Ranged weapon. 2-handed
+Great Bow,4,16,4,Bows,Ranged weapon. 2-handed
+Cunning Make,,,-2,Reward,
+Fell,, +2,,Reward,
+Grievous, +1,,,Reward,
+Keen,,,,,Pierce on 9+

@@ -1,0 +1,12 @@
+Armour,Protection,Load,Type,Standard
+Leather Shirt,1d6,3,Leather armour,—
+Leather Corslet,2d6,6,Leather armour,—
+Mail-shirt,3d6,9,Mail armour,Common
+Coat of Mail,4d6,12,Mail armour,Prosperous
+Helm, +1d6,4,Headgear,—
+Buckler, +1 parry,2,Shield,—
+Shield, +2 parry,4,Shield,Common
+Great Shield, +3 parry,6,Shield,Prosperous
+Close-fitting, +2 ,,Reward,
+Cunning Make,, -2 load,Reward,
+Reinforced, +1 parry,,Reward,

@@ -1,0 +1,220 @@
+.callout-title {
+  font-family: Niveau Grotesk Regular;
+}
+
+.view-header-breadcrumb {
+  font-family: Aniron;
+}
+.view-header-title {
+  font-family: Aniron;
+}
+.inline-title {
+  font-family: Aniron;
+}
+.callout {
+  background-color: rgb(237, 231, 225);
+}
+.callout-title {
+  color: black;
+}
+.callout[data-callout="enemy"] {
+  --callout-icon: sword;
+  --callout-color: rgb(192, 0, 0, 1);
+}
+.callout[data-callout="table"] {
+  --callout-icon: sheet;
+  --callout-color: rgb(192, 0, 0, 1);
+}
+.callout[data-callout="rolls"] {
+  --callout-icon: dice;
+  --callout-color: rgb(192, 0, 0, 1);
+}
+.callout[data-callout="map"] {
+  --callout-icon: map;
+  --callout-color: rgb(192, 0, 0, 1);
+}
+.callout[data-callout="strength"] {
+  --callout-icon: weight;
+  --callout-color: rgb(192, 0, 0, 1);
+}
+.callout[data-callout="heart"] {
+  --callout-icon: heart;
+  --callout-color: rgb(192, 0, 0, 1);
+}
+.callout[data-callout="wits"] {
+  --callout-icon: brain;
+  --callout-color: rgb(192, 0, 0, 1);
+}
+.callout[data-callout="combat"] {
+  --callout-icon: sword;
+  --callout-color: rgb(192, 0, 0, 1);
+}
+.callout[data-callout="rewards"] {
+  --callout-icon: prize;
+  --callout-color: rgb(192, 0, 0, 1);
+}
+thead,
+tbody {
+  font-family: Niveau Grotesk Regular;
+ 
+}
+
+/* table header */
+/* th, thead  {
+  background-color: rgb(226, 215, 203);
+} */
+
+.statblock-tor2e h1,
+.statblock-tor2e h2,
+.statblock-tor2e h3,
+.statblock-tor2e h4,
+.statblock-tor2e h5,
+.statblock-tor2e h6 {
+  font-family: Niveau Grotesk Regular;
+  color: rgb(192, 0, 0);
+}
+.statblock-tor2e {
+  font-family: Niveau Grotesk Regular;
+}
+body {
+  --background-primary: rgb(255, 252, 243);
+}
+.cm-line {
+  font-family: Flareserif821 BT;
+}
+p {
+  font-family: Flareserif821 BT;
+}
+.workspace-tab-header-inner-title {
+  font-family: Niveau Grotesk Regular;
+}
+.nav-folder-title {
+  font-family: Niveau Grotesk Regular;
+}
+.nav-file-title {
+  font-family: Niveau Grotesk Regular;
+}
+.three-columns { columns: 3; }
+
+.callout {
+  padding:5px;
+}
+input {
+  width:min-content;
+}
+.callout-title-inner {
+  font-family: Aniron;
+  color: rgb(192, 0, 0);
+  font-size: 18px;
+}
+
+/* ProfTW TOR styles */
+@font-face { 
+  font-family: "Caveat";
+  src: url('https://un-bane.github.io/fonts/Caveat/static/Caveat-Regular.ttf');
+}
+@font-face {
+  font-family: "Caveat";
+  src: url('https://un-bane.github.io/fonts/Caveat/static/Caveat-Bold.ttf');
+  font-weight: bold;
+}
+@font-face {
+  font-family: Aniron;
+  src: url('https://un-tor.github.io/media/Fonts/Aniron%20Bold.ttf');
+  font-weight: bold;
+  /* Free for personal use */
+}
+@import url('https://fonts.googleapis.com/css2?family=Urbanist:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Vollkorn:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&family=Brygada+1918&family=Lora&family=Voltaire&display=swap');
+
+
+/* Reduce size of check boxes  */
+.srt-track .srt-track-btn {
+  width: 14px;
+  height: 15px;
+  margin-top: -4px;
+}
+.srt-track .srt-track-btn.active:nth-child(5n) {
+    border-color: var(--interactive-accent);
+    background-color: var(--interactive-accent);
+}
+.srt-track .srt-track-btn:hover:nth-child(5n) {
+    border-color: var(--interactive-accent);
+}
+
+/* Use this style to prevent box tracks from being clickable.
+   Must set 
+      cssclasses: disable_tracks 
+   in properties for the note! */
+.disable_tracks .srt-track .srt-track-btn {
+  cursor: not-allowed;
+  pointer-events: none;
+}
+/* Use handwriting style red font for all italics. Resize to match. */
+.cm-em, em, .srt-count span {
+  color: var(--interactive-accent);
+  font-weight: bold;
+  font-style: normal;
+  font-family: 'Caveat';
+  font-size: 20px;
+  line-height: 20px;
+  padding-right: 0.15em;
+}
+.srt-count span {
+  font-size: 22px;
+  margin-top: -4px;
+}
+.character_sheet .cm-em, .character_sheet em, .character_sheet .srt-count span {
+  font-size: 26px;
+}
+/* Reduce spacing in Character Sheet tables */
+.character_sheet table {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.character_sheet {
+  --table-cell-padding-y: 2px; 
+  --p-spacing: 4px;
+}
+
+/* Headers from Homebrewery */
+h1,
+h2,
+.cm-header-2,
+.cm-header-1,
+.markdown-rendered h1,
+.markdown-rendered h2
+{
+	font-family							:	"Aniron", Georgia, Times, serif;
+	font-weight							: 700;
+	letter-spacing					: 0.2px;	
+}
+h1, .cm-header-1, .markdown-rendered h1 {	
+	letter-spacing					: 1px;	
+	padding-bottom					: 0.7em;	
+}
+h2, .cm-header-2, .markdown-rendered h2 {
+	font-family							:	"Aniron", Georgia, Times, serif;	
+	padding-bottom					: 8px;
+  margin-top              : 12px;
+}
+h3,
+h4 {
+	font-size								: 14px;
+  letter-spacing					: -0.2px;	
+  font-family							:	Vollkorn, Georgia, Times, serif;
+	border-bottom						: unset;
+  text-transform          : uppercase;
+}
+
+thead a.internal-link {
+  color: var(--table-header-color) !important;
+}
+thead a.internal-link:hover {
+  color: var(--link-color) !important;
+}
+
+.character_sheet table {
+  min-width: 100%;
+}

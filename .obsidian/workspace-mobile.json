@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "3858ee216c14cad1",
+    "type": "split",
+    "children": [
+      {
+        "id": "470c747f91378a0f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b4dcaa3fa511c2e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hamar and Leylin/Phases/AP 1.3 - Into the Hills.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AP 1.3 - Into the Hills"
+            }
+          },
+          {
+            "id": "f4876171215793e4",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "_Assets/PDFs/official/TOR_Ruins_of_the_Lost_Realm.pdf",
+                "page": 60,
+                "left": 0,
+                "top": 728,
+                "zoom": 1.03
+              },
+              "icon": "lucide-file-text",
+              "title": "TOR_Ruins_of_the_Lost_Realm"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f11d64243172bd29",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "42a0d90cfd922a1d",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "6ec99dafccbddcb0",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "92acaccdcc9cb34a",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "824ddc603a60fa6b",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "59720a90402517e0",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "c6712fa2577c96e0",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Readme.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "46506a4b4b049f78",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "PCs/Hamar.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "2bc65925ce97fe75",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "PCs/Hamar.md"
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "cf9188589e915364",
+        "type": "leaf",
+        "state": {
+          "type": "DICE_ROLLER_VIEW",
+          "state": {},
+          "icon": "dices",
+          "title": "Dice Tray"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "solo-rpg-toolkit:Solo RPG Toolkit": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "b4dcaa3fa511c2e1",
+  "lastOpenFiles": [
+    "_Assets/Reference/Adversaries.md",
+    "Hamar and Leylin/Phases/AP 1.3 - Into the Hills.md",
+    "Hamar and Leylin/An Unlikely Duo.md",
+    "Readme.md",
+    "_Assets/Credits.md",
+    "_Assets/Reference/Rules.md",
+    "Hamar and Leylin/PCs/Hamar.md",
+    "Hamar and Leylin/Phases/AP 1.2 - To Bree.md",
+    "Hamar and Leylin/Phases/AP 1.1 - The Map and the Spider.md",
+    "Hamar and Leylin/Combat.excalidraw.md",
+    "_Assets/PDFs/official/TOR_Moria.pdf",
+    "_Assets/PDFs/official/TOR_Ruins_of_the_Lost_Realm.pdf",
+    "_Assets/Images/ElfElenion.png",
+    "New Company/Combat.excalidraw.md",
+    "New Company/PCs",
+    "New Company/Phases",
+    "New Company/NPCs",
+    "New Company",
+    "Hamar and Leylin/PCs/Leylin.md",
+    "Hamar and Leylin/AP 1.3 - Into the Hills.md",
+    "Hamar and Leylin/AP 1.1 - The Map and the Spider.md",
+    "Hamar and Leylin/PCs",
+    "Hamar and Leylin/Phases",
+    "Hamar and Leylin/AP 1.2 - To Bree.md",
+    "Hamar and Leylin",
+    "Hamar and Leylin/NPCs/The Enforcer.md",
+    "Hamar and Leylin/NPCs/Marigold Heathertoes.md",
+    "Hamar and Leylin/NPCs/Rory Tunnelly.md",
+    "Hamar and Leylin/NPCs/The Spider.md",
+    "Hamar and Leylin/NPCs/Elenion.md",
+    "Hamar and Leylin/NPCs",
+    "_Assets/Templates/Company-Template.md",
+    "_Assets/Tests/Dataview Tests.md",
+    "PCs/Hamar.md",
+    "NPC/Marigold Heathertoes.md",
+    "_Assets/Images/HumanSpider.png",
+    "_Assets/Templates/Council-Template.md",
+    "_Assets/Images/HobbitMarigold.png",
+    "_Assets/Templates/Combat-Template.md",
+    "_Assets/Images/HumanThug4.png",
+    "_Assets/Images/HumanThug3.png",
+    "_Assets/Images/BannerShireWalk.png",
+    "_Assets/Images/HumanThug2.png",
+    "_Assets/Images/BannerShireFarmRuins.png",
+    "_Assets/Images/BannerWeatherHills.png",
+    "Untitled.canvas",
+    "_Assets/PDFs/custom/Combat-OK-50cmx41cm-v2 .png"
+  ]
+}

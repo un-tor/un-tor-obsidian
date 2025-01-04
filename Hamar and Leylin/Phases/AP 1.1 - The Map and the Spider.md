@@ -1,0 +1,115 @@
+---
+Date: 3/20/2957
+tags:
+  - AdventurePhase
+Phase: "1.1"
+Company: "[[An Unlikely Duo]]"
+---
+![[BannerShireFarmRuins.png]]
+### Note!
+*This incomplete adventure is provided as an example. Some of the content was AI generated and some is original writing. You should put your own adventure content in a new folder (like "New Company")*
+
+### Scene 1: Bag End
+![[HobbitBilbo.png|profile+medium right lp]] On the first day of Spring, Leylin and Hamar met by chance in the fields of the Shire. Leylin, a typical sheltered Hobbit, had never seen someone as large as the Dwarf, and immediately accosted him with questions. Hamar, amused by being called a "giant", agreed to let the girl come along on his trip to meet Bilbo.
+
+Hamar knocks on Bilbo's door, courteously asking for admittance. The door is promptly shut in his face!
+Leylin tries again, appealing to the old Hobbit's sense of curiosity, and gains admittance, despite never having actually met Bilbo before.
+
+> [!Council]
+> *Befriend Bilbo and gain his support as a patron.* 
+> Successes: `3/3` Round Limit: *3*
+>  - Intro: Hamar stands proudly before Bilbo trying tho show his strength and bravery. The Hobbit simply laughs.
+>  1. Leylin pulls out some Pipe Weed and tries to persuade Bilbo to listen to the dwarf's story; Hamar supports.  :LiCheckCheck: 
+>  2. Hamar pulls out Ori's journal to show the Hobbit his heritage. Leylin's insight provides support. 
+
+> Bilbo leans back in his cozy armchair, puffing thoughtfully on his pipe. His sharp eyes glint with a mix of mischief and genuine curiosity as he considers the young adventurers before him.
+> "You see," he begins, gesturing with his pipe, "I've been puzzling over something for some time now. There's talk of a map—a rather old and curious one—that seems to have landed in rather unsavory hands. Nothing too alarming, mind you," he adds quickly, seeing the hint of apprehension on Leylin's face. "It's not some grand treasure map leading to dragon hoards or anything quite so dire. But, well... it’s said to mark certain locations that hold memories of an older world. Places of importance to folk like us who value stories and history, you understand."
+> Bilbo sets his pipe down and leans forward conspiratorially. "Now, as it happens, this map was last seen in the possession of some rather rude ruffians who make their camp not far from the Great East Road. Not proper brigands, of course—more the sort who fancy themselves tougher than they are. A little clumsy, and not particularly clever. The sort that can be distracted by a jug of ale or a good story."
+> He pulls a small piece of parchment from his pocket and makes a quick sketch. "This here’s a rough drawing of where I believe they’re camped—an old ruin, no more than a few miles out of the way. I’d go myself, but you see, I’m not quite as spry as I once was. Besides," he smiles warmly at Leylin and Hamar, "you two have the look of folk who might handle this sort of thing splendidly. All I need is for you to retrieve that map. If it turns out to be nothing, well, no harm done. But if it is something… well, who knows what tales it might uncover?"
+> Bilbo sits back again, his expression a mix of excitement and fondness. "It’s no great peril—just a little sneaking about, perhaps a bit of fast talking. What do you say? It could be the start of a fine adventure, and you'll have a story of your own to tell when it's all said and done."
+
+Leylin is giddy with the thought of an adventure, and Hamar has a gleam in his eye too. We quickly agree to help Bilbo, Leylin dragging Hamar out the door and onto the road before he can get a word in.
+
+### Scene 2: Road to Ruin
+We head back to the road, deciding it is best to head towards the ruin, but not too close. We make our way to a hill overlooking the ruins of an old mining building south of the Hills of Scary. As the sun sets, we get close enough to see some figures moving about. Strangely, we see what looks like a large cage alongside the building. There is a large bright campfire burning, so they clearly are not hiding from anyone. We spot three figures.
+
+> [!Rolls] Skill Endeavor
+> *Investigate the camp!*
+> Successes: `6/6` Round Limit: *5*
+>  1. Stealth: Leylin sneaks towards the camp.  +3 successes
+>  2. Awareness: Leylin senses some thugs moving around in the dark. +2 successes
+>  3. Insight: Leylin tries to understand who the thugs are. +1 success
+
+What does Leylin learn about the thugs and the strange cage?
+> Leylin stealthily observes the camp and learns the following:
+> 1. **The Thugs:** Three lightly armed men work for someone called "the Spider." They guard a valuable map and seem overconfident in their remote location.
+> 2. **The Cage:** A large iron cage holds a bound and unconscious captive, likely connected to the map. The thugs are awaiting instructions on what to do with him.
+> 3. **The Map's Importance:** The map is highly valuable, with one thug suggesting destroying it out of fear, while the leader insists it must be preserved for their employer.
+> The thugs’ overconfidence and lax security might present an opportunity for a clever rescue or retrieval.
+
+:TrGandalf:  Leylin spots the keys to the cage, but they are around one of the thug's neck. It won't be easy to pilfer them. Suddenly, she sees Hamar not so stealthily sneaking towards the thugs.
+
+The thugs shout out, so Hamar emerges from the shadows, thinking fast and trying to seem natural.
+
+> [!Council]
+> *Trick the thugs*  
+> Successes: `4/6` Round Limit: *5*
+> 
+> - Intro: Hamar comes to the fire light claiming to be a miner surveying these hills. (Craft)
+> 1. Hamar tries to look tough. (Awe) :LiCheck:
+> 2. Hamar fast talks about their potentially being valuable ores in the area. (Lore) :LiCircleX:
+> 3. He tries again, this time using his notes and maps as support, he responds Fiercely to their doubts. They are convinced, but barely. (Lore + Map + Fierce) :LiCheck:
+> 4. Leylin searches for the map while the rest are distracted. Good luck, she finds a bag in the back and pulls out the rolled up map! (Scan + Keen Eyes) :LiCheckCheck:
+> 5. Hamar tries to chum up to the thugs. (Courtesy) :LiCircleX:
+>
+> The thugs are growingly highly suspicious of Hamar, and a bit rowdy!
+
+> [!combat]-
+> *Take down the thugs*
+> ![[HumanThug.png|profile+medium left lp]]
+> 
+> | Enemy                            | Endurance | Resolve |
+> | -------------------------------- | --------- | ------- |
+> | [[Adversaries#^Footpad\|Thug 1]] | `0`       | `0`     |
+> | [[Adversaries#^Footpad\|Thug 2]] | `0`       | `0`     |
+> | [[Adversaries#^Footpad\|Thug 3]] | `0`       | `0`     |
+
+Hamar quickly roughs up the toughs, sending them tumbling to the ground and running in fear of his axe. Even the biggest goon flees, yelling that the Spider will make us pay. Unfortunately, they run off with the key to the cage, but at least we found the map. Amazingly, none of the enemies managed to even touch Hamar with a blow!
+
+We  manage to break the lock open, Hamar grumbling at the shoddy craftsmanship. Inside we find a hobbit. Who is he and why was he trapped by these brigands?
+
+> ![[HobbitRory.png|profile right lp]] The hobbit inside the cage is [[Rory Tunnelly]], a distant cousin of the Took family known for his adventurous spirit—a trait that’s uncommon but not unheard of among hobbits. Rory is a wiry, slightly older hobbit with sandy brown curls and a mischievous twinkle in his eye, though he looks disheveled and worse for wear after his ordeal. He wears simple traveling clothes, now torn and dirty, and a battered satchel lies at his feet.
+> Rory explains that he was captured by the thugs after overhearing them at a tavern near the East Road. He had been on his way to visit family in the Bree-lands when he got curious about their talk of a "special map" and a mysterious figure called "the Spider." His nosiness got the better of him, and when the thugs caught him listening in, they decided to drag him along. They suspected he might know something about the map due to his quick excuses about being a simple traveler.
+> In truth, Rory has no deep connection to the map or the Spider, but he is an amateur historian and collector of old stories and artifacts. He recognizes the map as something special, claiming it marks the locations of ancient Dwarven waystations built during the time of Durin’s folk. "If the Spider gets hold of this," Rory says gravely, "there’s no telling what they might uncover—or destroy."
+> Rory is eager to assist Leylin and Hamar now that they’ve rescued him. He insists he can help interpret the map and navigate its secrets, though his resourcefulness may need to prove itself beyond his knack for getting into trouble.
+
+Knowing that the thugs may return, we head off into the night hoping they won't be able to follow our trail.
+
+### Scene 3: On the Road Back to Bag End
+On the road back to Bilbo's house in the early morning we pass a farmer riding an ox cart. He comments that we aren't the first strange group he's seen that day, unfortunately no one hears...
+
+Further ahead on the road, shadowy figures suddenly surround us. Surprisingly, there are only two of them. 
+
+> The Spider makes no overtly hostile move at first, instead relying on intimidation and manipulation. He speaks with an air of superiority, his words carefully chosen to unnerve and sow doubt. “You’ve caused quite the inconvenience,” he says, his tone turning sharp. “That map does not belong to you—or your doddering friend in Hobbiton. Hand it over, and perhaps I won’t be forced to remind you how far my web extends.”
+> When Hamar or Leylin refuse, the Spider’s tone hardens, and he gives a slight nod to his enforcer. The silent figure steps forward, weapon drawn, ready to fight. The Spider, meanwhile, stays at a distance, using the confrontation to observe the group’s capabilities and test their resolve.
+
+> [!combat]+
+> *Survive the [[The Enforcer|Enforcer]]!*
+> ![[HumanEnforcer.png|profile+medium right lp]]
+> 
+> | Enemy                            | Endurance | Resolve | Might |
+> | -------------------------------- | --------- | ------- | -----
+> |[[The Enforcer#^SpidersEnforcer\|Enforcer]] | `0`       | `1`     |  `1` |
+> This guy was tough, but so is Hamar! 
+> (Combat was pretty easy, although I forgot to have the Enforcer take multiple attacks for Might on at least two turns)
+
+> As the Enforcer falters under the trio's efforts, the Spider steps in, throwing a vial that releases a choking cloud of smoke. His calm voice cuts through the chaos: “This is only the beginning.” In the confusion, the Enforcer retreats, and the Spider vanishes with him, leaving behind an ominous warning and the acrid stench of sulfur.
+
+We continue our trek back to Bilbo's, taking a rather circuitous (and exhausting path).
+
+### Scene 4: Bilbo's Shock
+> The group recounted their perilous adventure to Bilbo, who was shocked and embarrassed to have unwittingly sent them into such danger. Recognizing the threat posed by the Spider, Bilbo advised them to quickly uncover the secrets of the map, suggesting Bree as the best place to find someone knowledgeable, like a wandering scholar or trader at The Prancing Pony. He acknowledged the danger they might have brought to the Shire and reassured them that he would take precautions to protect Bag End and his neighbors. With a mix of resolve and urgency, Bilbo urged the group to act swiftly, emphasizing the need to stay ahead of the Spider’s plans.
+
+Bilbo let's us spend the night and we are grateful for the food and company.
+
+Next: [[AP 1.2 - To Bree]]

@@ -1,0 +1,12 @@
+{
+  "enabledCssSnippets": [
+    "Tolkien",
+    "S - Encoded Fonts",
+    "S - Encoded Icons",
+    "tableStyles"
+  ],
+  "accentColor": "#831100",
+  "cssTheme": "ITS Theme",
+  "showViewHeader": true,
+  "theme": "moonstone"
+}
