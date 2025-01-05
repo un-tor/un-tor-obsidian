@@ -2,3 +2,6 @@
 _Assets/PDFs/official/*
 _Assets/Reference/Adversaries/AdversariesTOR.md
 _Assets/Scripts
+.obsidian/plugins/obsidian-textgenerator-plugin/
+.obsidian/workspace.json
+.obsidian/workspaces.json

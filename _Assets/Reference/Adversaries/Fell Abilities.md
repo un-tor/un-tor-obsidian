@@ -18,13 +18,13 @@ All attack rolls are Favoured while in darkness.
 Spend 1 Hate to make one Player- hero gain 3 Shadow points (Sorcery). Targets who fail their Shadow test or who are Miserable fall unconscious and may be roused only with a SONG roll. Otherwise, they wake up after one hour.
 
 ### Fear of Fire
-The creature loses 1 Hate at the start of each round it is engaged in close combat with an adversary wielding a torch or other sort of burning item.Snake- like Speed. When targeted by an attack, spend 1 Hate to make the attack roll Ill- favoured.
+The creature loses 1 Hate at the start of each round it is engaged in close combat with an adversary wielding a torch or other sort of burning item.
 
 ### Fierce
 Spend 1 Resolve point to gain (1d) and make the attack roll Favoured.
 
 ### Great Leap
-Spend 1 Hate to attack any Player- hero, in any combat stance, including Rearward.Snake- like Speed. When targeted by an attack, spend 1 Hate to make the attack roll Ill- favoured.
+Spend 1 Hate to attack any Player- hero, in any combat stance, including Rearward.
 
 ### Hate Sunlight
 The creature loses 1 Hate at the start of each round it is exposed to the full light of the sun.
@@ -46,6 +46,9 @@ Spend 1 Hate to restore 1 Hate to all other Wargs in the fight.
 
 ### Savage Assault
 Spend 1 Hate after a Fangs attack to immediately roll a Claws attack on the same target.
+
+### Snake- like Speed. 
+When targeted by an attack, spend 1 Hate to make the attack roll Ill- favoured.
 
 ### Strike Fear
 Spend 1 Hate to make all Player- heroes in sight gain 2 Shadow points (Dread). Those who fail their Shadow test are daunted and can-not spend Hope for the rest of the fight.
