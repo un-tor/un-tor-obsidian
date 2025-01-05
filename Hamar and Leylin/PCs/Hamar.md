@@ -29,8 +29,8 @@ Wisdom: "1"
 ShadowPath: "[[Treasure Hunter#SHADOW PATH DRAGON- SICKNESS|Dragon-Sickness]]"
 Scars: "0"
 Treasure: 90
-AdventurePoints: 6
-SkillPoints: 6
+AdventurePoints: 10
+SkillPoints: 10
 Load: "13"
 tags:
   - PC
@@ -47,10 +47,10 @@ Company: "[[An Unlikely Duo]]"
 | **Culture:** `=this.Culture`                                                                                           |
 | **Calling:** `=this.Calling`                                                                                           |
 | **Features:** `=this.DistinctiveFeatures`                                                                              |
-| **Endurance:**  `8` / `=this.EnduranceMax`                                                                             |
+| **Endurance:**  `20` / `=this.EnduranceMax`                                                                             |
 | **Fatigue/Load:**  ` ` `0` / `=this.Load`                                                                              |
-| **Hope:** ` `  ` ` `6` / `=this.HopeMax`                                                                               |
-| **Shadow/Scars:** `1` / *`=this.scars`*                                                                                |
+| **Hope:** ` `  ` ` `5` / `=this.HopeMax`                                                                               |
+| **Shadow/Scars:** `4` / *`=this.scars`*                                                                                |
 | **Parry/Armor:** *`=this.Parry`*  / *`=this.Armor`*                                                                    |
 
 
@@ -111,11 +111,11 @@ Company: "[[An Unlikely Duo]]"
 | Adv. Points: `=this.AdventurePoints` |
 | Skill Points: `=this.SkillPoints` |
 
-| Failings & Conditions|
-| ----------------------|
-| Shadow Path: `=this.ShadowPath` |
-| Flaws: - |
-|  `0/1` <abbr title="Gain when Shadow >= Hope. Auto fail on Eye roll.">Miserable</abbr> ` ` `0/1` <abbr title="Gain when Endurance <= Load + Fatigue. Count 1-3 on d6 as 0.">Weary</abbr> |
-| `1/1` <abbr title="Gain when failing Protection roll. No Endurance gain during short rest; gain STR worth of Endurance on Prolonged Rest. On second wound, Endurance=0 and player is dying.">Wounded</abbr> ` ` Injury: 1 day |
+| Failings & Conditions                                                                                                                                                                                                    |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Shadow Path: `=this.ShadowPath`                                                                                                                                                                                          |
+| Flaws: -                                                                                                                                                                                                                 |
+| `0/1` <abbr title="Gain when Shadow >= Hope. Auto fail on Eye roll.">Miserable</abbr> ` ` `0/1` <abbr title="Gain when Endurance <= Load + Fatigue. Count 1-3 on d6 as 0.">Weary</abbr>                                  |
+| `0/1` <abbr title="Gain when failing Protection roll. No Endurance gain during short rest; gain STR worth of Endurance on Prolonged Rest. On second wound, Endurance=0 and player is dying.">Wounded</abbr> ` ` Injury:  |
 
 ---

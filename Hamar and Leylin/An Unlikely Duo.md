@@ -6,7 +6,7 @@ icon: raBeer
 ### The Company
 
 **Fellowship:** `0`  / 4
-**Eye Awareness:** `1`
+**Eye Awareness:** `3`
 **Members:**
 ```dataview
 LIST 

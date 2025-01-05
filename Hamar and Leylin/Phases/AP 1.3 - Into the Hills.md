@@ -67,4 +67,93 @@ As Leylin carefully searches the fallen Enforcer, she discovers a small, intrica
 
 Leylin shares her findings with Hamar, and together they deduce that this meeting might be their next lead in preventing The Spider from reclaiming the map. The discovery of the box and the parchment suggests that their adversary is closer than they would like, but it also presents them with an opportunity to intercept and outmaneuver him before it's too late.
 
-*That's all for now!*
+### Scene 3: Unfriendly Eyes
+Hamar is injured and Leylin is pretty beaten up, so we head back towards our camp from the previous day, hoping to find evidence of where the elves may have gone. Leylin searches the area, but sees no sign of their passage. Unfortunately, something or someone else finds us instead. A darkness seems to fill the clearing and a sense of unease fills our stomachs (Hamar takes 3 shadow, Leylin takes 1). We look up to see glowing eyes in the woods around us... wolves! Hamar pulls Leylin back and they stumble off as the beasts howl.
+
+> [!Rolls]+ Skill Endeavor
+> ![[Warg1.png|right lp profile]]*Escape the wargs* 
+> <abbr title = "Simple: 3; Laborious: 6; Daunting: 9">Resistance</abbr>: `4/6` ` ` <abbr title = "No time: 3; Short time: 4; Enough time: 5; Plenty of time: 6">Round Limit</abbr>: *5*
+>  1. Athletics :TrTengwar: - Hamar sprints away from the clearing, dragging Leylin along
+>  2. Stealth 2:TrTengwar: - Leylin thinking quickly hides their tracks by running along a streambed
+>  3. Scan - Hamar can't spot anything of use
+>  4. Awe - cornered, Hamar spins with a roar to frighten the beasts... they are not intimidated
+>  5. Song :TrTengwar: - Leylin lets out a mournful song as the beasts surround us
+
+
+> [!combat]+
+> *[[Hamar and Leylin/Combat.excalidraw|Fight off the beasts]]*
+> ![[Warg1.png|profile+medium right lp]]
+> 
+> | Enemy                            | Endurance | Hate | Parry | Might | Active    |
+> | -------------------------------- | --------- | ------- | ----- | ----- | ----- |
+> | [[AdversariesTOR#^WildWolf]] | `0`      | `3`     | 0     |   -- |  `0/1` |
+> | [[AdversariesTOR#^WildWolf]] | `0`      | `3`     | 0     |   -- |  `0/1` |
+> 
+
+We manage to fight off a pair of the wolves! Just as more howls surround us, suddenly a party of elves materializes out of the woods around us. Their swords flash and arrows are loosed... in moments, the howls have been replaced by whimpers as elves easily dispatch the remaining wolves.
+
+[[Elenion]] has come to our rescue! He turns to us and says 'Fear not, friends. The path ahead is treacherous, but together we shall overcome the perils that lie in wait. I see that you are wounded, let me help.' We explain how we fought the Enforcer as Elenion and his friends bandage Hamar's wound and give us a refreshing elven drink. Hamar respectfully takes only a mouthful, but Leylin gladly guzzles the full wineskin, causing the elves to laugh. She hops up feeling completely renewed.
+
+We show Elenion the small box we found with the Enforcer. We ask if he knows the elvish runes upon it and whether it is his. His face is a look of surprise - it once was his, but he had not seen it for hundreds of years! What does Elenion tell us of the box?
+
+ Elenion carefully examines the small box, his fingers tracing the elvish runes etched into its surface. He takes a deep breath, lost in memories as he begins to speak. "This box," he says slowly, "was crafted long ago in the hidden forges of Rivendell. It was meant to hold precious secrets, safeguarded by the enchantments woven into its very being." 
+
+He glances at Leylin and Hamar with a mixture of awe and concern. "I entrusted it to an adventurer many centuries past, a dear friend who journeyed into lands unknown. The contents of this box were meant to aid him in his quest against the dark forces rising in those days." Elenion sighs, a hint of sadness in his eyes. "But it seems fate had other plans."
+
+"Elenion," Hamar interjects, "do you know what was inside?" 
+
+The elf nods gravely. "A map," he replies, "not just any map, but one that leads to an ancient stronghold where evil once held sway. If The Spider seeks it now, then dire times are upon us."
+
+We ask if he knows of the "stone circle" mentioned on the Spider's note and he nods, saying it is only a few hours walk away. If we move quickly, we can get there before nightfall. We regroup with our ponies and head off.
+
+### Scene 4: The Stone Circle
+We follow Elenion deeper into the woods, eventually reaching the circle.
+
+The clearing is surrounded by dense, ancient woods that seem unnaturally quiet as the group approaches. The stone circle itself is bathed in the eerie golden-orange glow of the setting sun, casting long shadows across the clearing. A faint, unnatural chill hangs in the air. The standing stones are weathered, towering slabs of black granite, each etched with faded runes that seem to shimmer faintly in the dim light. The arrangement of the stones suggests a purpose—an ancient site of power, now long-forgotten by most.
+
+In the middle of the circle is a low stone altar, covered in moss and lichen. Faint traces of older markings are visible beneath the decay, though their meaning is unclear. The ground around the altar is blackened, as if scorched by fire long ago. The Spider stands near the altar, speaking in a low, commanding tone. His demeanor is calm but charged with purpose, as though he knows this moment is pivotal.
+
+The air feels heavy, and there is a faint whispering sound that seems to come from the stones themselves. From the shadows we quietly take stock of the situation, spotting several dark-clad figures patrolling the perimeter of the clearing, their movements deliberate and their eyes scanning for intruders. We try to move forward silently, but Hamar is much too bulky for a stealth mission and suddenly the alarm goes up.
+
+The Spider stands at the altar, barking orders at his agents and holding a weathered artifact—clearly ancient but poorly understood. His gestures are clumsy, his voice raised in frustration as he demands results from the standing stones. “It’s supposed to work! This is the place, isn’t it? The stones, the relic—it’s all here!” he growls, his words betraying his desperation. The air is heavy from the malevolent potential latent in the site, feeding on his greed and anger.
+
+Unbeknownst to the Spider, the stone circle is a place tied to dark memories—a site once used by Men of old to ward against or bind malevolent spirits. His actions, though crude and ignorant, have begun to stir the lingering echoes of evil. The artifact on the altar—a corrupted piece of Elven craftsmanship—resonates faintly with his ambition, amplifying the place’s ominous atmosphere.
+
+The group arrives just as the latent power of the place begins to react, and the Spider’s bumbling attempts threaten to unleash something far beyond his comprehension.
+
+> [!Rolls]+ Skill Endeavor
+> *Disrupt the ritual* 
+> <abbr title = "Simple: 3; Laborious: 6; Daunting: 9">Resistance</abbr>: `3/5` ` ` <abbr title = "No time: 3; Short time: 4; Enough time: 5; Plenty of time: 6">Round Limit</abbr>: *3*
+>  1. Awe :TrTengwar: - Hamar, giving up on stealth, booms out a dwarven cry
+>  2. Stealth :TrTengwar: - Leylin and Elenion sneak forward, having not yet been spotted
+>  3. Riddle :TrTengwar: - Leylin draws on her knowledge of folk lore to guess the Spider's intent, but she is simply too slow.
+
+As the guards close in on Hamar, the Spider’s attention is split between his men and the artifact he clutches. He grips it tightly, his frustration mounting. “I’ll show you all!” he shouts, raising the artifact above his head in a crude, theatrical gesture meant to assert dominance more than skill.
+
+Unbeknownst to him, the artifact resonates with the ancient echoes of the stone circle, feeding on his anger and ambition. The runes on the standing stones flicker to life—not with brilliant light, but with a sickly, pulsing glow. The whispers in the air grow louder, becoming an unsettling hum, as though the circle itself disapproves of what is happening.
+
+Suddenly, a dark shape begins to coalesce near the altar. It is not fully formed, more a shadowy suggestion of a humanoid figure than a true spirit. Its presence is cold and suffocating, a remnant of ancient malice tied to the circle’s tragic history. The Spider stumbles backward as the shadow engulfs him, his bravado replaced with terror.
+
+“No! I... I command you!” he screams, but his words falter as the shadow presses against him, merging with his form. His features twist with pain and fury as he struggles against the spirit’s influence. The transformation is subtle but chilling: his voice deepens, his posture becomes more menacing, and his eyes take on a dark, unnatural gleam.
+
+When the process ends, the Spider is no longer entirely himself. Though still recognizably human, he exudes a palpable sense of dread, his cruel cunning now infused with an otherworldly malice. “You think you can stop me now, dwarf?” he sneers, his voice resonating with an unsettling depth. “You’ve only ensured your doom.”
+
+
+> [!combat]+
+> *[[Hamar and Leylin/Combat.excalidraw|What has he become?]]*
+> ![[WraithSpider.png|profile+medium right lp]]
+> 
+> | Enemy                            | Endurance | Resolve | Parry | Might | Active    |
+> | -------------------------------- | --------- | ------- | ----- | ----- | ----- |
+> | [[Adversaries#^Footpad\|Thug 1]] | `5`      | `0`     | 0     |   1 |  `0/1` |
+> | [[Adversaries#^Footpad\|Thug 2]] | `0`       | `1`     | +2   |  1 |  `0/1` |
+> | [[The Spider#^FreshlyCorruptedSpider\|Corrupted Spider]]  | `19`       | `0`     |  0     |  1 |  `1/1` | 
+> 
+
+We quickly dispatch the two goons, then Hamar charges the Spider. He swings his hammer with incredible force (:TrGandalf: + :TrTengwar: + :TrTengwar: + :TrTengwar:) which depletes all of the Spider's inner hatred, turning it into fear. With a scream of anguish, The Spider dashes off into the night. At the same time, another of the stone pillars comes crashing down. The elves react quickly, raising their voices in song, beseeching the calm from the spirits here.
+
+ As the echoes of Hamar's mighty blow fade into the night, Leylin and Hamar find themselves standing amidst the chaos of the crumbling ruins. The moon casts a silvery light over the scene, illuminating dust swirling in the air from the fallen stone pillar. The elves continue their melodic invocations, their songs weaving a protective aura around the remaining structures. 
+
+Leylin, with her keen hobbit senses, notices a glint on the ground where The Spider had stood moments before. Upon closer inspection, she discovers a small fragment of parchment—perhaps a piece of the coveted map they seek. The split stones reveal a cache of ancient goods, which together with the elves we gather up for safe keeping.
+
+The elves' song begins to soothe the restless spirits, their presence becoming less volatile as tranquility returns to this ancient place. There is an unspoken understanding between Leylin and Hamar that they dare not follow The Spider's trail now. The danger posed by the man has been greatly magnified by whatever spirits he awoke. They need time to recover and plan their next steps.

@@ -34,8 +34,8 @@ Wisdom: "1"
 ShadowPath: "[[Messenger#SHADOW PATH WANDERING-MADNESS|Wandering-Madness]]"
 Scars: "0"
 Treasure: 30
-AdventurePoints: 6
-SkillPoints: 10
+AdventurePoints: 10
+SkillPoints: 14
 Load: "5"
 tags:
   - PC
@@ -51,10 +51,10 @@ Company: "[[An Unlikely Duo]]"
 | **Culture:** `=this.Culture`                                                                     |
 | **Calling:** `=this.Calling`                                                                     |
 | **Features:** `=this.DistinctiveFeatures`                                                        |
-| **Endurance:**  `9` / `=this.EnduranceMax`                                                       |
-| **Fatigue/Load:**  ` ` `2` / `=this.Load`                                                        |
-| **Hope:** ` `  ` ` `7` / `=this.HopeMax`                                                         |
-| **Shadow/Scars:** `3` / *`=this.scars`*                                                          |
+| **Endurance:**  `20` / `=this.EnduranceMax`                                                       |
+| **Fatigue/Load:**  ` ` `1` / `=this.Load`                                                        |
+| **Hope:** ` `  ` ` `5` / `=this.HopeMax`                                                         |
+| **Shadow/Scars:** `5` / *`=this.scars`*                                                          |
 | **Parry/Armor:** *`=this.Parry`* / *`=this.Armor`*                                               |
 
 |                                                 |                                                                                             |
