@@ -14,3 +14,7 @@ Dwarves make light of burdens, especially when it comes to wearing armour.
 #### NAUGRIM 
 Dwarves are shorter than Men, but their work as miners and smiths endows them with powerful arms and shoulders. Yet, they still favour shorter weapons over longer ones. 
 > Dwarven adventurers cannot use the following pieces of war gear: great bow, great spear, and great shield.
+
+
+#### Baruk Khazad!
+> Once per combat when in a Forward stance your attack roll is <abbr title="Roll 2 feat die and take best.">Favoured</abbr> and can attempt Intimidate Foe combat task as a secondary action.

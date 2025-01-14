@@ -15,3 +15,7 @@ Hobbits have learned their place in the world a long time ago, and they display 
 #### HALFLINGS 
 Due to their reduced size, Hobbits cannot use larger weapons effectively. 
 > The weapons available to Hobbits are: Axe, bow, club, cudgel, dagger, short sword, short spear, spear. Additionally, Hobbits cannot use a great shield.
+
+
+#### Small Folk
+> When engaged with enemies larger than a hobbit, gain +2 to Parry. Can take Rearward stance with only one member in a close combat stance.
