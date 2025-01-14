@@ -1,6 +1,6 @@
 
 > [!combat]+
-> *[[Hamar and Leylin/Combat.excalidraw|Take down the thugs. They started it!]]*
+> *[[Combat|Take down the thugs. They started it!]]*
 > ![[HumanThug2.png|profile+medium right lp]]
 > 
 > | Enemy                            | Endurance | Resolve | Parry | Might | Active    |

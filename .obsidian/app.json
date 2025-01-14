@@ -4,5 +4,6 @@
   "showInlineTitle": false,
   "showRibbon": true,
   "promptDelete": false,
-  "newFileLocation": "current"
+  "newFileLocation": "current",
+  "attachmentFolderPath": "_Assets/Images"
 }
