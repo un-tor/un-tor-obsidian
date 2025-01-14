@@ -67,5 +67,9 @@
   },
   "Hamar and Leylin/An Unlikely Duo.md": {
     "iconName": "RaBeer"
+  },
+  "Hamar and Leylin/NPCs/Caladwen.md": {
+    "iconName": "RaPlayer",
+    "iconColor": "green"
   }
 }

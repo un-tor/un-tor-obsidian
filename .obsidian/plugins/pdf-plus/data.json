@@ -70,7 +70,7 @@
   "noAnnotationHighlightsInEmbed": true,
   "persistentTextHighlightsInEmbed": true,
   "persistentAnnotationHighlightsInEmbed": false,
-  "highlightBacklinks": true,
+  "highlightBacklinks": false,
   "selectionBacklinkVisualizeStyle": "highlight",
   "dblclickEmbedToOpenLink": true,
   "highlightBacklinksPane": true,
