@@ -17,6 +17,8 @@ The Spider is a cunning and enigmatic figure who exudes an unsettling calm and m
 - *Calculating:*  The Spider is a master strategist, always thinking several steps ahead and never acting impulsively.
 - *Intimidating:*  He has a chilling presence, using words and subtle gestures to unnerve those who oppose him.
 - *Elusive:*  The Spider rarely places himself in direct danger, always having an escape plan or a distraction to ensure his safety.
+- *Thieving*
+- *Overconfident*
 
 ![[WraithSpider.png|profile+medium lp right]]
 

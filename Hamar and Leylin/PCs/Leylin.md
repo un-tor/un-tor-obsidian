@@ -1,8 +1,8 @@
 ---
 cssclasses:
   - character_sheet
-  - disable_tracks
   - wideTable
+  - disable_tracks
 Name: Leylin
 Strength: "2"
 StrengthTN: "16"
@@ -30,12 +30,12 @@ Gear:
   - Keen
 Armor: 1d6
 Valour: "1"
-Wisdom: "1"
+Wisdom: "2"
 ShadowPath: "[[Messenger#SHADOW PATH WANDERING-MADNESS|Wandering-Madness]]"
 Scars: "0"
-Treasure: 30
-AdventurePoints: 10
-SkillPoints: 14
+Treasure: 40
+AdventurePoints: 2
+SkillPoints: 6
 Load: "5"
 tags:
   - PC
@@ -51,11 +51,11 @@ Company: "[[An Unlikely Duo]]"
 | **Culture:** `=this.Culture`                                                                     |
 | **Calling:** `=this.Calling`                                                                     |
 | **Features:** `=this.DistinctiveFeatures`                                                        |
-| **Endurance:**  `20` / `=this.EnduranceMax`                                                       |
+| **Endurance:**  `20` / `=this.EnduranceMax`                                                      |
 | **Fatigue/Load:**  ` ` `1` / `=this.Load`                                                        |
-| **Hope:** ` `  ` ` `5` / `=this.HopeMax`                                                         |
-| **Shadow/Scars:** `5` / *`=this.scars`*                                                          |
-| **Parry/Armor:** *`=this.Parry`* / *`=this.Armor`*                                               |
+| **Hope:** ` `  ` ` `11` / `=this.HopeMax`                                                         |
+| **Shadow/Scars:** `3` / *`=this.scars`*                                                          |
+| **Parry/Armor:** *`=this.Parry`+2*  / *`=this.Armor`*                                               |
 
 |                                                 |                                                                                             |
 | ----------------------------------------------- | ------------------------------------------------------------------------------------------- |
@@ -67,7 +67,7 @@ Company: "[[An Unlikely Duo]]"
 | `1/1` Song:                                     | `2/6`                                                                                       |
 | `0/1` Craft:                                    | `1/6`                                                                                       |
 | :FasHeart: **Heart:** *`=this.Heart`*           | **TN:** *`=this.HeartTN`*                                                                   |
-| `0/1` Enhearten:                                | `1/6`                                                                                       |
+| `0/1` Enhearten:                                | `2/6`                                                                                       |
 | `0/1` Travel:                                   | `0/6`                                                                                       |
 | `1/1` Insight:                                  | `2/6`                                                                                       |
 | `0/1` Healing:                                  | `2/6`                                                                                       |
@@ -108,6 +108,7 @@ Company: "[[An Unlikely Duo]]"
 | ------------------------------------------------------------------------ |
 | [[Hobbits of the Shire#CULTURAL BLESSING — HOBBIT- SENSE\|Hobbit-Sense]] |
 | [[Hobbits of the Shire#HALFLINGS\|Halflings]]                            |
+| [[Hobbits of the Shire#Small Folk\|Small Folk]]                          |
 | Mastery (Awareness, Insight)                                             |
 | Adv. Points: `=this.AdventurePoints`                                     |
 | Skill Points: `=this.SkillPoints`                                        |

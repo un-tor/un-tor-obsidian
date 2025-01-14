@@ -25,12 +25,12 @@ StandardOfLiving:
   - Prosperous
 Armor: 5d6 + 2
 Valour: "1"
-Wisdom: "1"
+Wisdom: "2"
 ShadowPath: "[[Treasure Hunter#SHADOW PATH DRAGON- SICKNESS|Dragon-Sickness]]"
 Scars: "0"
-Treasure: 90
-AdventurePoints: 10
-SkillPoints: 10
+Treasure: 100
+AdventurePoints: 2
+SkillPoints: 6
 Load: "13"
 tags:
   - PC
@@ -47,10 +47,10 @@ Company: "[[An Unlikely Duo]]"
 | **Culture:** `=this.Culture`                                                                                           |
 | **Calling:** `=this.Calling`                                                                                           |
 | **Features:** `=this.DistinctiveFeatures`                                                                              |
-| **Endurance:**  `20` / `=this.EnduranceMax`                                                                             |
+| **Endurance:**  `29` / `=this.EnduranceMax`                                                                             |
 | **Fatigue/Load:**  ` ` `0` / `=this.Load`                                                                              |
-| **Hope:** ` `  ` ` `5` / `=this.HopeMax`                                                                               |
-| **Shadow/Scars:** `4` / *`=this.scars`*                                                                                |
+| **Hope:** ` `  ` ` `7` / `=this.HopeMax`                                                                               |
+| **Shadow/Scars:** `2` / *`=this.scars`*                                                                                |
 | **Parry/Armor:** *`=this.Parry`*  / *`=this.Armor`*                                                                    |
 
 
@@ -73,7 +73,7 @@ Company: "[[An Unlikely Duo]]"
 | Valour:                                       | *`=this.Valour`*             |
 | :FasBrain: **Wits:** *`=this.Wits`*           | **TN:** *`=this.WitsTN`*     |
 | `0/1` Persuade:                               | `0/6`                        |
-| `0/1` Stealth:                                | `0/6`                        |
+| `0/1` Stealth:                                | `1/6`                        |
 | `1/1` Scan:                                   | `3/6`                        |
 | `1/1` Explore:                                | `2/6`                        |
 | `0/1` Riddle:                                 | `2/6`                        |
@@ -85,9 +85,9 @@ Company: "[[An Unlikely Duo]]"
 | Spears:                                       | `1/6`                        |
 | Swords:                                       | `0/6`                        |
 
-| Weapons                                      | :RaBurstBlob: | :RaDrippingSword: |
-| -------------------------------------------- | :-----------: | :---------------: |
-| [[Weapons#Long-hafted Axe\|Long-hafted Axe]] |       6       | 18 (1h) / 20 (2h) |
+| Weapons                               | :RaBurstBlob: | :RaDrippingSword: |
+| ------------------------------------- | :-----------: | :---------------: |
+| [[Weapons#Long-hafted Axe\|Long Axe]] |       6       | 18 (1h) / 20 (2h) |
 
 | Armor                                                                       | :RaVest: | :LiScale: |
 | --------------------------------------------------------------------------- |: -------- :|: --------- |
@@ -103,19 +103,20 @@ Company: "[[An Unlikely Duo]]"
 | Decent Pony (Vigor 2)            |
 | **Treasure:** *`=this.Treasure`* |
 
-| Blessings & Virtues|
-| ----------------------|
-| [[Dwarves of Durn's Folk#CULTURAL BLESSING — REDOUBTABLE\|Redoubtable]]|
-| [[Dwarves of Durn's Folk#NAUGRIM\|Naugrim]]|
-| Confidence: +2 hope |
-| Adv. Points: `=this.AdventurePoints` |
-| Skill Points: `=this.SkillPoints` |
+| Blessings & Virtues                                                     |
+| ----------------------------------------------------------------------- |
+| [[Dwarves of Durn's Folk#CULTURAL BLESSING — REDOUBTABLE\|Redoubtable]] |
+| [[Dwarves of Durn's Folk#NAUGRIM\|Naugrim]]                             |
+| [[Dwarves of Durn's Folk#Baruk Khazad!\|Baruk Khazad!]]                 |
+| Confidence: +2 hope                                                     |
+| Adv. Points: `=this.AdventurePoints`                                    |
+| Skill Points: `=this.SkillPoints`                                       |
 
-| Failings & Conditions                                                                                                                                                                                                    |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Shadow Path: `=this.ShadowPath`                                                                                                                                                                                          |
-| Flaws: -                                                                                                                                                                                                                 |
-| `0/1` <abbr title="Gain when Shadow >= Hope. Auto fail on Eye roll.">Miserable</abbr> ` ` `0/1` <abbr title="Gain when Endurance <= Load + Fatigue. Count 1-3 on d6 as 0.">Weary</abbr>                                  |
-| `0/1` <abbr title="Gain when failing Protection roll. No Endurance gain during short rest; gain STR worth of Endurance on Prolonged Rest. On second wound, Endurance=0 and player is dying.">Wounded</abbr> ` ` Injury:  |
+| Failings & Conditions                                                                                                                                                                                                   |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Shadow Path: `=this.ShadowPath`                                                                                                                                                                                         |
+| Flaws: -                                                                                                                                                                                                                |
+| `0/1` <abbr title="Gain when Shadow >= Hope. Auto fail on Eye roll.">Miserable</abbr> ` ` `0/1` <abbr title="Gain when Endurance <= Load + Fatigue. Count 1-3 on d6 as 0.">Weary</abbr>                                 |
+| `0/1` <abbr title="Gain when failing Protection roll. No Endurance gain during short rest; gain STR worth of Endurance on Prolonged Rest. On second wound, Endurance=0 and player is dying.">Wounded</abbr> ` ` Injury: |
 
 ---
