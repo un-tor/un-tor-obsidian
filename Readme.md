@@ -1,5 +1,5 @@
 # TOR: Obsidian 
-Version: 0.2
+Version: 0.3
 
 This [Obsidian.md](https://www.obsidian.md) Vault is designed to help you organize your adventures in Free League's The One Ring RPG. The vault provides CSS styles, plugins, and templates so you can more easily record your adventures. Once properly configured, the vault will let let you format your adventures similar to these screenshots:
 
@@ -15,6 +15,9 @@ This [Obsidian.md](https://www.obsidian.md) Vault is designed to help you organi
 - Within opened vault, visit the [[Getting Started]] page to learn how to finish setup.
 
 #### Changelog
+- v0.3:
+    - Add basic templates for fellowships and journeys
+    - Rename phases so they sort better alphabetically
 - v0.2:
 	- Improve readme
 	- move adversaries to separate folder
