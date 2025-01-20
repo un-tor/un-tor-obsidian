@@ -10,6 +10,7 @@ Culture:
   - "[[Beornings]]"
   - "[[Men of Bree]]"
   - "[[Hobbits of the Shire]]"
+  - "[[Hobbits of Bree]]"
   - "[[Elves of Lindon]]"
   - "[[Elves of Mirkwood]]"
   - "[[High Elves of Rivendell]]"
