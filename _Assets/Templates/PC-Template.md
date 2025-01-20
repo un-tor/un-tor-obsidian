@@ -27,8 +27,13 @@ Culture:
 DistinctiveFeatures:
   - Pick 2 + Calling
 Calling:
-  - "[[Treasure Hunter]]"
+
+  - "[[Captain]]"
+  - "[[Champion]]"
   - "[[Messenger]]"
+  - "[[Scholar]]"
+  - "[[Treasure Hunter]]"
+  - "[[Warden]]"
 StandardOfLiving:
   - Poor
   - Frugal
