@@ -1,5 +1,5 @@
 You deem that there is but one way to oppose the return of the Shadow, and that is to conquer if by strength of arms. You are recognised as a warrior among your folk, a valiant fighter, onward into battle. For you, the road to adventure leads straight to wherever your foes prowl or hide.
-- [[TOR_Core_Rules.pdf#page=47]]
+- [[TOR_Core_Rules.pdf#page=48]]
 
 #### ADDITIONAL DISTINCTIVE FEATURE: ENEMY-LORE
 Enemy-lore is not a single Distinctive Feature; you must select the type of enemies it applies to, choosing from Evil Men, Orcs, Spiders, Trolls, Wargs, and Undead. This Distinctive Feature gives you knowledge fo the characteristics, habits, strengths, and weaknesses of your chosen enemy.

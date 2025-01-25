@@ -1,5 +1,5 @@
 When the world is on the brink of ruin, it is the duty of all individuals of worth to rise and take the lead, whatever the risk. You have chosen to put your judgement to the service of others, to guide them in this dark hour. But you don't want others to heed your commands out of fear or obedience -- you want them to follow you because they trust you.
-- [[TOR_Core_Rules.pdf#page=47]]
+- [[TOR_Core_Rules.pdf#page=48]]
 
 #### ADDITIONAL DISTINCTIVE FEATURE: LEADERSHIP
 You possess the ability to direct others to action. When under pressure, others naturally turn to you for guidance.
