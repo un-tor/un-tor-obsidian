@@ -18,6 +18,7 @@ Culture:
   - "[[Beornings]]"
   - "[[Men of Bree]]"
   - "[[Hobbits of the Shire]]"
+  - "[[Hobbits of Bree]]"
   - "[[Elves of Lindon]]"
   - "[[Elves of Mirkwood]]"
   - "[[High Elves of Rivendell]]"
@@ -27,8 +28,13 @@ Culture:
 DistinctiveFeatures:
   - Pick 2 + Calling
 Calling:
-  - "[[Treasure Hunter]]"
+
+  - "[[Captain]]"
+  - "[[Champion]]"
   - "[[Messenger]]"
+  - "[[Scholar]]"
+  - "[[Treasure Hunter]]"
+  - "[[Warden]]"
 StandardOfLiving:
   - Poor
   - Frugal
